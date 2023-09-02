@@ -1,6 +1,6 @@
 # Table-of-any-number
 This C++ program generates a multiplication table for a given number. Let's break down the code step by step.
-### 
+### Full Explaination   
  #include <iostream>
 using namespace std;
 
@@ -35,3 +35,7 @@ The loop continues as long as both i and d are less than or equal to 10.
   return 0;
 }
 Finally, your program returns 0 to indicate successful execution to the operating system.
+### Author
+~Quartuxa / Devang 
+~Github: https://github.com/QUARTUXA
+~Gmail: progamerzx668@gmail.com
