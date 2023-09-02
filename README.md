@@ -3,7 +3,6 @@
 
 This C++ program generates a multiplication table for a given number. Let's break down the code step by step.
 
-```cpp
 #include <iostream>
 using namespace std;
 
