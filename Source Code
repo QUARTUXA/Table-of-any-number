@@ -11,6 +11,6 @@ cout<<"This Program Show You Table Of Any Number";
     cout<<a<<" x "<<d<<" = "<<a*i<<endl;
     i++;
     d++;
-  }while(i <= 10, d <= 10);
+  }while(i <= 10 && d <= 10);
 return 0;
 }
